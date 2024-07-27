@@ -1,14 +1,14 @@
 # brunda_github
 
-##Currency Converter App
+**#Currency Converter App**
 A simple Java-based currency converter application using advanced Java concepts like Swing for GUI.
 
-Features
+**Features**
   * Convert between multiple currencies.
   * Intuitive GUI with dropdown menus for currency selection.
   * Real-time conversion using hardcoded exchange rates.
 
-Technologies Used
+**Technologies Used**  
   * Java Swing for the user interface.
   * Java AWT for layout management.
   * Event Handling for button actions.
@@ -20,7 +20,7 @@ Screenshots
 ![Screenshot 27-07-2024 18_47_58](https://github.com/user-attachments/assets/a9fa1437-cd4c-4f5c-ba66-73cdf66c2a6f)
 
 
-Setup Instructions
+**Setup Instructions**  
   * Clone the repository:
       https://github.com/Brunda6/Advanced_java_project/blob/main/CurrencyConverterApp.java
     
@@ -31,7 +31,7 @@ Setup Instructions
   * Run the application:
       Click the green arrow next to the "main" method in "CurrencyConverterApp.java".
 
-Usage
+**Usage**
   * Select the currency you want to convert from and to using the dropdowns.
   * Enter the amount you want to convert.
   * Click the "Convert" button to see the result.
