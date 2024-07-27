@@ -1,6 +1,6 @@
-brunda_github
+# brunda_github
 
-#**Currency Converter App**
+## **Currency Converter App**
 A simple Java-based currency converter application using advanced Java concepts like Swing for GUI.
 
 **Features**
