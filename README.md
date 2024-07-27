@@ -13,8 +13,8 @@ A simple Java-based currency converter application using advanced Java concepts 
   * Java AWT for layout management.
   * Event Handling for button actions.
 
-_**Screenshots**
-_
+### **Screenshots**
+
 ![Currency Converter 27-07-2024 18_47_33](https://github.com/user-attachments/assets/c3e83761-380c-4ba8-8a1f-0e3eb501e032)
 ![Currency Converter 27-07-2024 18_48_20](https://github.com/user-attachments/assets/136a512b-2350-4716-9b3c-9e2a8ef089e2)
 ![Screenshot 27-07-2024 18_47_58](https://github.com/user-attachments/assets/a9fa1437-cd4c-4f5c-ba66-73cdf66c2a6f)
